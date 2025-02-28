@@ -337,3 +337,8 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [03:20:45 | 28-02-2025] ✅ Node started for 0x10476F9677c50BEBCBa03AB616a1143bA0556814
+[08:25:52 | 28-02-2025] Wallet Address: 0x10476F9677c50BEBCBa03AB616a1143bA0556814
+[08:25:52 | 28-02-2025] Node Points: 206833
+[08:25:52 | 28-02-2025] Last Claim Point: 26/02/2025 16:25:07
+[08:25:53 | 28-02-2025] ✅ Points claimed for 0x10476F9677c50BEBCBa03AB616a1143bA0556814
+[08:25:55 | 28-02-2025] 🚨 Failed to start node for 0x10476F9677c50BEBCBa03AB616a1143bA0556814: [object Object]
